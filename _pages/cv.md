@@ -70,6 +70,6 @@ Awards
 ======
 * Full scholarship to attend the RIDGE Summer School and the IEA World Congress 2023 in Medellin, Colombia.
 
-Download CV
+[Download CV](https://drive.google.com/file/d/1BHZVhye217SNtMKSkqOGfzNo6-I_n-fW/view?usp=sharing)
 ======
-{% for post in site.files %} {% include CV_DJZF.pdf %} {% endfor %}
+
