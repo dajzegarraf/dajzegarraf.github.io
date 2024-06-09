@@ -3,7 +3,7 @@ title: "Determinants of social and environmental conflicts in Peru"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Undergraduate thesis.'
-date: 2020-14-09
+date: 2020-09-14
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
