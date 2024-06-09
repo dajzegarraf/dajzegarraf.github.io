@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "David Javier Zegarra"
 title_separator          : "-"
-name                     : &name "David Javier Zegarra Florez"
+name                     : &name "David Javier Zegarra"
 description              : &description "MSc in Economics (c)"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dajzegarraf.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "David J Zegarra"
+  name             : "David Javier Zegarra"
   pronouns         : # example: "she/her"  
   bio              : "MSc in Economics (c)"
   location         : "Bogota, Colombia"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "d.zegarra@uniandes.edu.co" 
 
