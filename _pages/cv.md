@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * M.Sc. in Economics, Universidad de los Andes, Colombia, 2024 (expected)
-* MicroMasters Program in Data, Economics and Development Policy, 2022
-* B.Sc. in Economics, Pontificia Universidad Católica del Perú, 2020
+* MicroMasters Program in Data, Economics and Development Policy, MITx, 2022
+* B.Sc. in Economics, Pontificia Universidad Católica del Perú (PUCP), 2020
 
 Work experience
 ======
