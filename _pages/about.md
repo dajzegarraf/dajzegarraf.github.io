@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-MSc in Economics candidate at Universidad de los Andes, Colombia. I have almost 4 years of experience in several research projects in developing countries. My academic interests are Development Economics, Political Economy and Economic History. 
+MSc in Economics from Universidad de los Andes, Colombia. Over four years of experience working on research projects in developing countries. My academic interests are Political Economy, Development Economics, Environmental Economics, and Economic History. 
