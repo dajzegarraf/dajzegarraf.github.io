@@ -70,14 +70,23 @@ Skills
   * SurveyCTO (Basic)
   * MS Office
   * LaTeX
+  * Git
 * Languages
   * English (Advanced)
   * Spanish (Native)
 
+Academic Presentation
+======
+* The XXI Research Institute for Development, Growth, and Economics (RIDGE) forum. 
+Workshop on Historical Development – Speaker (May 2025)
+Organized by the Latin American and Caribbean Economic Association (LACEA) and the Economic History Network (EHN). The event took place at Universidad del Pacífico, in Lima, Peru. Presented: Living with the enemy: Foreign occupation and human capital in the long run.
+
+
 Awards
 ======
 * Full scholarship to attend the RIDGE Summer School and the IEA World Congress 2023 in Medellin, Colombia.
+* Full scholarship to attend the RIDGE Summer School and the IEA World Congress 2023 in Medellín, Colombia.
 
-[Download CV](https://drive.google.com/file/d/1BHZVhye217SNtMKSkqOGfzNo6-I_n-fW/view?usp=sharing)
+[Download CV](https://drive.google.com/file/d/1uRrhQWKqQ5JYRHu5rSZDE-vDOR3p5qS3/view?usp=sharing)
 ======
 
