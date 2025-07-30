@@ -78,10 +78,7 @@ Skills
 Academic Presentation
 ======
 * The XXI Research Institute for Development, Growth, and Economics (RIDGE) forum. 
-Workshop on Historical Development – Speaker (May 2025).
-
-Organized by the Latin American and Caribbean Economic Association (LACEA) and the Economic History Network (EHN). The event took place at Universidad del Pacífico, in Lima, Peru. Presented: Living with the enemy: Foreign occupation and human capital in the long run.
-
+Workshop on Historical Development – Speaker (May 2025). 
 
 Awards
 ======
